@@ -2,8 +2,7 @@
 
 Reference implementation of the pre-training data risk assessment framework from:
 
-> Padela & Wang, "Data quality assessment and risk management in artificial
-> intelligence systems" (draft v4).
+> Padela & Wang, "AI Pre-training Risk Assessment".
 
 The framework operationalizes data-layer risk screening under the governance
 categories of OMB Memorandum M-25-21 ("Accelerating Federal Use of AI through
