@@ -67,9 +67,9 @@ python scripts/01_score_datasets.py --datasets german_credit
 # Folktables — first run downloads Census PUMS files (~1GB per state)
 python scripts/01_score_datasets.py --datasets folktables
 
-# MIMIC requires PhysioNet credentialing + manual file placement;
-# see datasets/mimic_iv_loader.py for file layout
-python scripts/01_score_datasets.py --datasets mimic_iv
+# MIMIC requires PhysioNet credentialing + manual file placement so after a week replaced with Diabetes 130
+# see datasets/diabetes_130_loader.py for file layout
+python scripts/01_score_datasets.py --datasets diabetes_130
 
 # CivilComments — first run downloads ~1GB from HuggingFace
 python scripts/01_score_datasets.py --datasets civilcomments
@@ -100,7 +100,7 @@ results/rubric_scores/
 ├── wine_quality_rubric_scores.json
 ├── german_credit_rubric_scores.json
 ├── folktables_rubric_scores.json
-├── mimic_iv_rubric_scores.json
+├── diabetes_130_rubric_scores.json
 ├── civilcomments_rubric_scores.json
 └── c4_subset_rubric_scores.json
 ```
