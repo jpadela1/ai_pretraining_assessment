@@ -1,10 +1,5 @@
 # data_risk_rubric
 
-Reference implementation of the pre-training data risk assessment framework from:
-
-> Padela & Wang, "Data quality assessment and risk management in artificial
-> intelligence systems" (draft v4).
-
 The framework operationalizes data-layer risk screening under the governance
 categories of OMB Memorandum M-25-21 ("Accelerating Federal Use of AI through
 Innovation, Governance, and Public Trust", April 2025) and the NIST AI Risk
