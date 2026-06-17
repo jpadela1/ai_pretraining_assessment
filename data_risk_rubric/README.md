@@ -5,6 +5,9 @@ categories of OMB Memorandum M-25-21 ("Accelerating Federal Use of AI through
 Innovation, Governance, and Public Trust", April 2025) and the NIST AI Risk
 Management Framework (AI RMF 1.0).
 
+This is the first of two files and accompanies the paper, "AI Pre-training Risk Assessment: An 
+Application-conditional Rubric for Data Quality, Safety, and Rights Impact"
+
 **Version alignment.** Package version 0.2.0 matches paper draft v4. This
 implements **six safety sub-dimensions** (Table II of the paper) split into
 content-origin (CO) and physical-safety (PS) groups, with N/A logic for
