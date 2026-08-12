@@ -2,7 +2,7 @@ Metadata-Version: 2.4
 Name: data_risk_rubric
 Version: 0.3.0
 Summary: Pre-training data risk assessment framework with automated proxies (matches paper draft v4; adds has_human_subjects axis-level N/A)
-Author: Joyce S. Padela, Jianwu Wang
+
 License: MIT
 Requires-Python: >=3.10
 Description-Content-Type: text/markdown
