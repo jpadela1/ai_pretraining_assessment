@@ -32,7 +32,7 @@ from typing import Optional
 from .types import ApplicationContext, Axis, ProxyResult
 
 
-# Table I weights from the paper. Mirrors the docx Table I exactly.
+# Table I weights from the paper. Mirrors the docx Table I exactly. THIS IS NOT USED
 QUALITY_WEIGHTS: dict[ApplicationContext, dict[str, float]] = {
     ApplicationContext.DW: {
         "appropriate_amount": 0.5,
